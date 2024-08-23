@@ -1,4 +1,4 @@
-Bee Timor-Leste E.P 
+Website: [Bee Timor-Leste E.P](https://btl.tl) 
 ![alt text](image1.jpg?raw=true)
 
-Website: [Bee Timor-Leste](https://btl.tl) 
+
