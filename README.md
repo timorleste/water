@@ -54,5 +54,11 @@ https://chatgpt.com/share/680b5910-4cf4-8013-ae65-318847f1db6e
 
 Thanks for sharing the poster! Yes, this appears to be a comprehensive visual layout for an interactive mapping and information system, possibly designed for geospatial analysis, communication workflows, and service delivery—most likely within the context of East Timor (Timor-Leste), as suggested by the maps and labels.
 
+---------------------------------
+
+
+
+
+
 
 
