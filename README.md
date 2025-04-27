@@ -59,6 +59,29 @@ Thanks for sharing the poster! Yes, this appears to be a comprehensive visual la
 Water Project: [Projects is an adaptable, flexible tool for planning and tracking work on GitHub.](https://github.com/users/timorleste/projects/1)
 ![alt text](image4.jpg?raw=true)
 
+Mean this poster by ChatGPT
+https://chatgpt.com/.../680b5b2c-132c-8013-bc2f-c32f1233a6b6
+
+Thanks for sharing the image! Yes, this appears to be a detailed poster featuring various digital and geographic information systems related to Bee Timor-Leste Empresa Pública (BTL E.P.), which is Timor-Leste’s public water utility company.
+Here's a quick breakdown of what the poster seems to show:
+
+1. Top Left: An interactive map of Dili with a focus on water infrastructure—pipes, stations, and possibly service areas.
+
+2. Top Right: A flowchart or organizational structure related to internal collaboration and data access within BTL E.P.
+
+3. Middle Left: A geospatial data visualization—likely showing population density or water resource distribution using heatmap-style coloring.
+
+4. Middle Right: BTL E.P.'s official website or online portal homepage.
+
+5. Bottom Left: A secure login portal labeled “Internal Collaboration Workspace” with the branding “Paperless”.
+
+6. Bottom Center: A sample BTL E.P. employee ID badge, with QR code, digital fingerprint, and job identification elements.
+
+7. Bottom Right: Emphasis on digital fingerprint technology for security or identification—perhaps for internal systems or employee access.
+
+This poster strongly highlights BTL’s use of digital transformation, GIS mapping, internal collaboration tools, and security features like biometric ID systems.
+
+
 
 
 
