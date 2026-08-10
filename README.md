@@ -10,6 +10,8 @@
 
 [Water Billing Calculator](https://icw.btl.tl/water-calculator) 
 
+[Rivers](https://timorleste.github.io/rivers)
+
 [Ground Water](https://timorleste.github.io/groundwaters/index.html)
 
 [Rain Line](https://timorleste.github.io/rain-line)
