@@ -26,10 +26,10 @@ Sea level rise and saltwater intrusion are major concerns for coastal areas in T
 [Suco Adjacent to Beach](https://timorleste.github.io/coast-suco/)
 
 Water Project: [Projects is an adaptable, flexible tool for planning and tracking work on GitHub.](https://github.com/users/timorleste/projects/1)
-![alt text](image7.jpg?raw=true)
+![alt text](image6.jpg?raw=true)
 
 Water Project: [Projects is an adaptable, flexible tool for planning and tracking work on GitHub.](https://github.com/users/timorleste/projects/1)
-![alt text](image5.jpg?raw=true)
+![alt text](image7.jpg?raw=true)
 
 
 
