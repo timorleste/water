@@ -28,8 +28,6 @@ Sea level rise and saltwater intrusion are major concerns for coastal areas in T
 Water Project: [Projects is an adaptable, flexible tool for planning and tracking work on GitHub.](https://github.com/users/timorleste/projects/1)
 ![alt text](image8.jpg?raw=true)
 
-Water Project: [Projects is an adaptable, flexible tool for planning and tracking work on GitHub.](https://github.com/users/timorleste/projects/1)
-![alt text](image7.jpg?raw=true)
 
 
 
